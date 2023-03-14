@@ -57,9 +57,10 @@ body{
     text-align: center;
   }
 
-  img.avatar {
+  img {
     width: 15%;
     border-radius: 50%;
+    box-shadow: 0 0 5px #1b825c,0 0 2px #f44336;
   }
 
   section {
